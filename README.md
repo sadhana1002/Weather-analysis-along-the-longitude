@@ -1,0 +1,2 @@
+# Weather-analysis-along-the-longitude
+Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take Python requests, APIs, and JSON traversals and try to answer a fundamental question: "What's the weather like as we approach the equator?"  Now, we know what we may be thinking: "Duh. It gets hotter..."  But, if pressed, let's see how we would prove it.
