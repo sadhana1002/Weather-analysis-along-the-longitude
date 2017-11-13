@@ -1,0 +1,501 @@
+,Closest City name,Closest Country code
+0,ponta delgada,pt
+1,avarua,ck
+2,pangnirtung,ca
+3,semirom,ir
+4,kuytun,cn
+5,kang,bw
+6,dalby,au
+7,hilo,us
+8,belushya guba,ru
+9,seaca de padure,ro
+10,ontario,us
+11,lithakia,gr
+12,afyonkarahisar,tr
+13,hobyo,so
+14,washington,us
+15,sinjah,sd
+16,lagoa,pt
+17,belomorsk,ru
+18,christchurch,nz
+19,kintampo,gh
+20,masunga,bw
+21,komsomolskiy,ru
+22,artyk,ru
+23,moura,pt
+24,shenjiamen,cn
+25,sabzevar,ir
+26,sao joao da barra,br
+27,farah,af
+28,abapo,bo
+29,yatou,cn
+30,nador,ma
+31,bambous virieux,mu
+32,brownwood,us
+33,villazon,bo
+34,beysehir,tr
+35,kailua,us
+36,illoqqortoormiut,gl
+37,vila velha,br
+38,severo-yeniseyskiy,ru
+39,corinth,us
+40,hengshui,cn
+41,nyrob,ru
+42,ransang,ph
+43,tarakan,id
+44,oistins,bb
+45,varkaus,fi
+46,forrest city,us
+47,zwedru,lr
+48,coxim,br
+49,ust-kulom,ru
+50,waconia,us
+51,mehamn,no
+52,cehegin,es
+53,eureka,us
+54,san lorenzo,bo
+55,pacifica,us
+56,atascadero,us
+57,champerico,gt
+58,brookhaven,us
+59,severnyy,ru
+60,burnie,au
+61,charters towers,au
+62,itarema,br
+63,tabiauea,ki
+64,chernyshevskiy,ru
+65,herat,af
+66,kota kinabalu,my
+67,lexington,us
+68,buariki,ki
+69,santa cruz,cr
+70,high level,ca
+71,comodoro rivadavia,ar
+72,chimoio,mz
+73,carcassonne,fr
+74,uusikaupunki,fi
+75,kemijarvi,fi
+76,saskylakh,ru
+77,taltal,cl
+78,filingue,ne
+79,filadelfia,py
+80,mujiayingzi,cn
+81,mys shmidta,ru
+82,richards bay,za
+83,oruro,bo
+84,werda,bw
+85,vizinga,ru
+86,akdepe,tm
+87,uyuni,bo
+88,anchorage,us
+89,akropong,gh
+90,rikitea,pf
+91,mrirt,ma
+92,pisco,pe
+93,saint-pierre,pm
+94,miyako,jp
+95,fereydun kenar,ir
+96,soldotna,us
+97,lima,pe
+98,verkhnevilyuysk,ru
+99,umm jarr,sd
+100,matara,lk
+101,gasa,bt
+102,botou,cn
+103,coihaique,cl
+104,tshane,bw
+105,villamontes,bo
+106,rancho grande,hn
+107,pochutla,mx
+108,tautira,pf
+109,suicheng,cn
+110,olafsvik,is
+111,ngunguru,nz
+112,nizhneyansk,ru
+113,volksrust,za
+114,rundu,na
+115,birjand,ir
+116,warqla,dz
+117,pokhara,np
+118,ketchikan,us
+119,roald,no
+120,sur,om
+121,laguna,br
+122,aiquile,bo
+123,dembi dolo,et
+124,palaiokhora,gr
+125,corsicana,us
+126,geraldton,au
+127,teya,ru
+128,hervey bay,au
+129,louis trichardt,za
+130,kumluca,tr
+131,zhumadian,cn
+132,chipinge,zw
+133,juneau,us
+134,butaritari,ki
+135,platanos,gr
+136,kommunisticheskiy,ru
+137,bumba,cd
+138,labuan,my
+139,sentyabrskiy,ru
+140,belmonte,br
+141,guinayangan,ph
+142,ballina,au
+143,djibo,bf
+144,dafeng,cn
+145,maridi,sd
+146,sabla,bg
+147,upernavik,gl
+148,bongaree,au
+149,afrikanda,ru
+150,muros,es
+151,synya,ru
+152,coquimbo,cl
+153,altamont,us
+154,namibe,ao
+155,rungata,ki
+156,bara,sd
+157,kuryk,kz
+158,azle,us
+159,zabol,ir
+160,nangong,cn
+161,kutum,sd
+162,cuprija,rs
+163,zhanaozen,kz
+164,kalamansig,ph
+165,kearney,us
+166,trairi,br
+167,bardiyah,ly
+168,cervo,es
+169,comarapa,bo
+170,malakal,sd
+171,honningsvag,no
+172,muhororo,ug
+173,burica,pa
+174,pareora,nz
+175,san cristobal,ec
+176,dunedin,nz
+177,nantucket,us
+178,severomorsk,ru
+179,almaznyy,ru
+180,fort wellington,gy
+181,lerwick,gb
+182,hermanus,za
+183,greenwood,us
+184,challapata,bo
+185,mountain home,us
+186,bud,no
+187,nieuw amsterdam,sr
+188,reconquista,ar
+189,abu zabad,sd
+190,san pedro de ycuamandiyu,py
+191,leh,in
+192,duobao,cn
+193,dayong,cn
+194,joroan,ph
+195,mabaruma,gy
+196,dana point,us
+197,asau,tv
+198,monzon,es
+199,digby,ca
+200,armacao de pera,pt
+201,atuona,pf
+202,porto novo,cv
+203,bathsheba,bb
+204,tumannyy,ru
+205,osuna,es
+206,punta arenas,cl
+207,vaitape,pf
+208,asfi,ma
+209,manyana,bw
+210,taburi,ph
+211,central point,us
+212,artyom,az
+213,igrim,ru
+214,pionerskiy,ru
+215,save,bj
+216,kardamaina,gr
+217,snezhnogorsk,ru
+218,dixon,us
+219,neftcala,az
+220,meulaboh,id
+221,toamasina,mg
+222,fairbanks,us
+223,svetlogorsk,ru
+224,sinegorye,ru
+225,izvoarele,ro
+226,hambantota,lk
+227,chokurdakh,ru
+228,broome,au
+229,nyurba,ru
+230,alta,no
+231,kaitangata,nz
+232,aflu,dz
+233,pierre,us
+234,strezhevoy,ru
+235,san jose,bo
+236,dengfeng,cn
+237,asosa,et
+238,antalaha,mg
+239,lormont,fr
+240,sindand,af
+241,acarau,br
+242,monforte de lemos,es
+243,bondo,cd
+244,waipawa,nz
+245,tawau,my
+246,cam ranh,vn
+247,san patricio,mx
+248,date,jp
+249,jujuy,ar
+250,egvekinot,ru
+251,gambela,et
+252,jacqueville,ci
+253,haapiti,pf
+254,ayame,ci
+255,springfield,us
+256,burdur,tr
+257,bantogon,ph
+258,wattegama,lk
+259,lishu,cn
+260,tsihombe,mg
+261,dangtu,cn
+262,puerto pinasco,py
+263,xinzhou,cn
+264,mackay,au
+265,korla,cn
+266,pacific grove,us
+267,nueva concepcion,gt
+268,zonguldak,tr
+269,kahului,us
+270,henderson,us
+271,alegrete,br
+272,petrozavodsk,ru
+273,mhlume,sz
+274,christiana,za
+275,gogrial,sd
+276,hobo,ph
+277,maniitsoq,gl
+278,inirida,co
+279,natchez,us
+280,north las vegas,us
+281,ketou,bj
+282,puerto carreno,co
+283,mumford,gh
+284,katsiveli,ua
+285,jamestown,sh
+286,cape coast,gh
+287,toulepleu,ci
+288,hay river,ca
+289,thaba-tseka,ls
+290,port hedland,au
+291,vuktyl,ru
+292,shahrud,ir
+293,mangrol,in
+294,marshall,us
+295,otawara,jp
+296,brokopondo,sr
+297,corum,tr
+298,kogon,uz
+299,farafangana,mg
+300,nampa,us
+301,russellville,us
+302,halalo,wf
+303,xinye,cn
+304,jining,cn
+305,naryan-mar,ru
+306,barrow,us
+307,khonuu,ru
+308,aykhal,ru
+309,stephenville,us
+310,srednekolymsk,ru
+311,raudeberg,no
+312,chuy,uy
+313,leganes,es
+314,adra,es
+315,gazojak,tm
+316,yulara,au
+317,mahebourg,mu
+318,dongying,cn
+319,kargasok,ru
+320,balilihan,ph
+321,belyy yar,ru
+322,esfarayen,ir
+323,kautokeino,no
+324,llanes,es
+325,nikolskoye,ru
+326,ambodifototra,mg
+327,alanya,tr
+328,azimur,ma
+329,vila franca do campo,pt
+330,dudinka,ru
+331,zaraza,ve
+332,asuncion,py
+333,la asuncion,ve
+334,hutchinson,us
+335,labutta,mm
+336,rockland,us
+337,puerto el triunfo,sv
+338,rio gallegos,ar
+339,harper,lr
+340,commerce,us
+341,tongliao,cn
+342,saint joseph,us
+343,po,bf
+344,berlevag,no
+345,baherden,tm
+346,saint-joseph,re
+347,paradise,us
+348,matagalpa,ni
+349,changli,cn
+350,kalmunai,lk
+351,saint-leu,re
+352,erenhot,cn
+353,longyearbyen,sj
+354,luangwa,zm
+355,palaia fokaia,gr
+356,talawdi,sd
+357,xai-xai,mz
+358,chicama,pe
+359,kokkola,fi
+360,mingshui,cn
+361,moerai,pf
+362,birao,cf
+363,pangai,to
+364,rawson,ar
+365,adrar,dz
+366,miri,my
+367,clyde river,ca
+368,paracuru,br
+369,narsaq,gl
+370,leningradskiy,ru
+371,northam,au
+372,redmond,us
+373,rancho palos verdes,us
+374,fernley,us
+375,kapoeta,sd
+376,lasa,cn
+377,borovoy,ru
+378,sembakung,id
+379,evora,pt
+380,piacabucu,br
+381,ruatoria,nz
+382,safranbolu,tr
+383,shakawe,bw
+384,ejura,gh
+385,caravelas,br
+386,marcona,pe
+387,fortuna,us
+388,natchitoches,us
+389,arcata,us
+390,emerald,au
+391,ribeira grande,pt
+392,trojes,hn
+393,cumaribo,co
+394,elko,us
+395,bria,cf
+396,teguldet,ru
+397,butembo,cd
+398,cidreira,br
+399,texarkana,us
+400,tunxi,cn
+401,anaco,ve
+402,iquique,cl
+403,nicoya,cr
+404,kangaatsiaq,gl
+405,porterville,us
+406,castro,cl
+407,yeppoon,au
+408,demirci,tr
+409,kenai,us
+410,maracaju,br
+411,vestmanna,fo
+412,banda aceh,id
+413,albany,au
+414,limbang,my
+415,canillo,ad
+416,gorom-gorom,bf
+417,kuusamo,fi
+418,puerto suarez,bo
+419,vanimo,pg
+420,geresk,af
+421,isangel,vu
+422,totness,sr
+423,shelburne,ca
+424,conway,us
+425,barcelos,br
+426,mehriz,ir
+427,altea,es
+428,broken hill,au
+429,koutsouras,gr
+430,sarangani,ph
+431,abashiri,jp
+432,puerto ayora,ec
+433,chanute,us
+434,hobart,au
+435,la rioja,ar
+436,batticaloa,lk
+437,presidencia roque saenz pena,ar
+438,taolanaro,mg
+439,maceio,br
+440,vardo,no
+441,bolungarvik,is
+442,damghan,ir
+443,sabang,id
+444,liverpool,ca
+445,karaul,ru
+446,menomonie,us
+447,katsuura,jp
+448,hangu,cn
+449,shache,cn
+450,kaitong,cn
+451,dobrun,ro
+452,phalaborwa,za
+453,clarksville,us
+454,vao,nc
+455,tabou,ci
+456,ahipara,nz
+457,ust-nera,ru
+458,avera,pf
+459,weinan,cn
+460,zhigansk,ru
+461,balabac,ph
+462,nivala,fi
+463,lethem,gy
+464,stuttgart,us
+465,iskateley,ru
+466,kritsa,gr
+467,kapaa,us
+468,oulu,fi
+469,maryborough,au
+470,am timan,td
+471,tchaourou,bj
+472,half moon bay,us
+473,san jose,gt
+474,bloemfontein,za
+475,provideniya,ru
+476,mataura,pf
+477,chiredzi,zw
+478,bend,us
+479,salalah,om
+480,saint john,ca
+481,darnah,ly
+482,esperance,au
+483,marrakesh,ma
+484,rosetta,eg
+485,nokaneng,bw
+486,doctor pedro p. pena,py
+487,odienne,ci
+488,amalapuram,in
+489,takoradi,gh
+490,ravar,ir
+491,bowen,au
+492,bluff,nz
+493,pevek,ru
+494,kavieng,pg
+495,manado,id
+496,havoysund,no
+497,dikson,ru
+498,talnakh,ru
+499,trincomalee,lk
