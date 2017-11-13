@@ -266,7 +266,7 @@ plt.show()
 size_temp = np.round((((selected_cities.Temperature)/100)**2)*10,2)
 
 selected_cities.plot(kind="scatter",x="Longitude",y="Latitude",grid=True, edgecolor="black",
-                     c=size_temp,s=size_temp*200,cmap=plt.cm.YlOrRd)
+                     c=size_temp,s=200,cmap=plt.cm.YlOrRd)
 plt.xlabel("Longitude")
 plt.tight_layout()
 plt.title("Temperature along Longitude and Latitude")
