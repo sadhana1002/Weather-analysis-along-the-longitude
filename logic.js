@@ -52,7 +52,7 @@ temperatureScale.domain(findMinAndMax('Temperature'));
 
 colorScale.domain(findMinAndMax('Temperature'));
 
-windScale.domain(findMinAndMax('Wind speed'));
+windScale.domain(findMinAndMax('Windspeed'));
 
 humidityScale.domain(findMinAndMax('Humidity'));
 
@@ -65,7 +65,9 @@ var cloudLayer = L.layerGroup();
 
 for (var i=0;i<dataset.length;i++){
 
-  console.log(dataset[i]);
+  console.log("Data",dataset[i]);
+
+  console.log(temperatureScale(parseFloat(dataset[i]['Temperature'])));
   
     temp_marker = L.circle(
         [parseFloat(dataset[i]['Latitude']),parseFloat(dataset[i]['Longitude'])],
@@ -75,7 +77,7 @@ for (var i=0;i<dataset.length;i++){
         }
     ).bindPopup(`<h3>${dataset[i]['Closest City name']} - ${dataset[i]['Closest Country code']}</h3><hr>`+
                 `<p> Temperature - ${dataset[i]['Temperature']} (degree Celcius)<br>`+
-                `Wind speed - ${dataset[i]['Wind speed']}<br>`+
+                `Wind speed - ${dataset[i]['Windspeed']}<br>`+
                 `Humidity - ${dataset[i]['Humidity']}<br>`+
                 `Cloudiness - ${dataset[i]['Cloudiness']}</p>`
 
@@ -84,8 +86,8 @@ for (var i=0;i<dataset.length;i++){
     wind_marker = L.circle(
       [parseFloat(dataset[i]['Latitude']),parseFloat(dataset[i]['Longitude'])],
       {
-        radius:windScale(parseFloat(dataset[i]['Wind speed'])),
-        color:getColor('Wind speed')
+        radius:windScale(parseFloat(dataset[i]['Windspeed'])),
+        color:getColor('Windspeed')
       }
     );
 
